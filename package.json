@@ -1,0 +1,25 @@
+{
+  "name": "fastweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13601313270/fastWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13601313270/fastWeb/issues"
+  },
+  "homepage": "https://github.com/13601313270/fastWeb#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.2"
+  }
+}
